@@ -1,0 +1,5 @@
+ipykernel==6.29.5
+python-dotenv==1.0.1
+requests==2.32.3
+sympy==1.13.3
+openai==1.51.2
