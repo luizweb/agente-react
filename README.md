@@ -49,3 +49,4 @@ $ python ./app/agente-react.py "Quero comprar um teclado e dois monitores. Quant
 -----
 
 
+![React](./images/react.gif)
